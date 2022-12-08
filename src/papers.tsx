@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import style from "./papers.module.css"
 
 type PaperInfo = {
@@ -103,7 +104,7 @@ export default function Papers() {
   return (
     <>
       <p>Papers</p>
-      <a href={`papers/ray_tracing`}>Ray tracing</a>
+      <Link to="ray_tracing">Ray Tracing</Link>
     </>
   )
 }

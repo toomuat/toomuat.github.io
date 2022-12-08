@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { BrowserRouter, createBrowserRouter, createRoutesFromElements, Route, RouterProvider, Routes } from 'react-router-dom'
 import Root from "./root"
 import './index.css'
 import ErrorPage from './error-page'
@@ -13,15 +13,35 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
   },
   {
-    path: "papers",
+    path: "/papers",
     element: <Papers />,
   },
   {
-    path: "papers/ray_tracing",
+    path: "/papers/ray_tracing",
     element: <RayTracing />,
   },
-],{
-    basename: import.meta.env.BASE_URL
+], {
+  basename: import.meta.env.GITHUB_PAGES
+})
+
+const router2 = createBrowserRouter(
+  createRoutesFromElements(
+    <Route
+      path='/'
+      element={<Root />}
+      errorElement={<ErrorPage />}>
+      <Route
+        path='/papers'
+        element={<Papers />}>
+      </Route>
+      <Route
+        path='/papers/ray_tracing'
+        element={<RayTracing />}>
+      </Route>
+    </Route >
+  )
+  , {
+    basename: import.meta.env.GITHUB_PAGES
   })
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
