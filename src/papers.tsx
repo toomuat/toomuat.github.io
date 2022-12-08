@@ -87,7 +87,7 @@ function PapersList(text_file: string, title: string) {
   return (
     <>
       <h2>{title}</h2>
-      <input type="text" onChange={onSearchChange} />
+      <input type="text" onChange={onSearchChange} className={style.search_box} />
       <PapersListSub papers={papers_info} search_word={search}></PapersListSub>
     </>
   )

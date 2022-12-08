@@ -13,3 +13,11 @@ li {
 .keyword + .keyword {
   margin-left: 0.5em;
 }
+
+.search_box {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  padding: 0.5em;
+  font-size: 20px;
+}
