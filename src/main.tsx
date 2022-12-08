@@ -20,7 +20,9 @@ const router = createBrowserRouter([
     path: "papers/ray_tracing",
     element: <RayTracing />,
   },
-])
+],{
+    basename: import.meta.env.BASE_URL
+  })
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
