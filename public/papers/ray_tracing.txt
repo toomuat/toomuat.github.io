@@ -1,0 +1,230 @@
+Effects of Ions on Whistler-Mode Ray Tracing
+Kimura, Iwane. "Effects of ions on whistler-mode ray tracing." Radio Science 1.3 (1966): 269-283.
+
+Some techniques for shading machine renderings of solids
+Appel, Arthur. "Some techniques for shading machine renderings of solids." Proceedings of the April 30--May 2, 1968, spring joint computer conference. 1968.
+Ray casting
+
+Calculating the acoustical room response by the use of a ray tracing technique
+Krokstad, Asbjørn, Staffan Strom, and Svein Sørsdal. "Calculating the acoustical room response by the use of a ray tracing technique." Journal of Sound and Vibration 8.1 (1968): 118-125.
+
+An improved illumination model for shaded display
+Turner Whitted. 1980. An improved illumination model for shaded display. Commun. ACM 23, 6 (June 1980), 343–349.
+
+Ray tracing parametric patches
+Kajiya, James T. "Ray tracing parametric patches." ACM SIGGRAPH Computer Graphics 16.3 (1982): 245-254.
+
+Ray casting for modeling solids
+Roth, Scott D. "Ray casting for modeling solids." Computer graphics and image processing 18.2 (1982): 109-144.
+
+A testbed for realistic image synthesis
+Hall, Roy, and Donald Greenberg. "A testbed for realistic image synthesis." IEEE Computer Graphics and Applications 3.08 (1983): 10-20.
+
+Distributed ray tracing
+Cook, Robert L., Thomas Porter, and Loren Carpenter. "Distributed ray tracing." Proceedings of the 11th annual conference on Computer graphics and interactive techniques. 1984.
+
+Space subdivision for fast ray tracing
+Glassner, Andrew S. "Space subdivision for fast ray tracing." IEEE Computer Graphics and applications 4.10 (1984): 15-24.
+Space subdivision
+
+Ray tracing volume densities
+Kajiya, James T., and Brian P. Von Herzen. "Ray tracing volume densities." ACM SIGGRAPH computer graphics 18.3 (1984): 165-174.
+
+Ray tracing with cones
+Amanatides, John. "Ray tracing with cones." ACM SIGGRAPH Computer Graphics 18.3 (1984): 129-135.
+
+On Ray Tracing Parametric Surfaces
+Toth, Daniel L. "On ray tracing parametric surfaces." ACM SIGGRAPH Computer Graphics 19.3 (1985): 171-179.
+
+The rendering equation
+Kajiya, James T. "The rendering equation." Proceedings of the 13th annual conference on Computer graphics and interactive techniques. 1986.
+Path tracing
+Rendering equation
+
+Arts: Accelerated ray-tracing system
+Fujimoto, Akira, Takayuki Tanaka, and Kansei Iwata. "Arts: Accelerated ray-tracing system." IEEE Computer Graphics and Applications 6.4 (1986): 16-26.
+
+Backward ray tracing
+Arvo, James. "Backward ray tracing." Developments in Ray Tracing, Computer Graphics, Proc. of ACM SIGGRAPH 86 Course Notes. 1986.
+
+Ray Tracing Complex Scenes
+Kay, Timothy L., and James T. Kajiya. "Ray tracing complex scenes." ACM SIGGRAPH computer graphics 20.4 (1986): 269-278.
+
+Ray Tracing Complex Models Containing Surface Tessellations
+Snyder, John M., and Alan H. Barr. "Ray tracing complex models containing surface tessellations." ACM SIGGRAPH Computer Graphics 21.4 (1987): 119-128.
+
+Fast ray tracing by ray classification
+Arvo, James, and David Kirk. "Fast ray tracing by ray classification." ACM Siggraph Computer Graphics 21.4 (1987): 55-64.
+
+Automatic creation of object hierarchies for ray tracing
+Goldsmith, Jeffrey, and John Salmon. "Automatic creation of object hierarchies for ray tracing." IEEE Computer Graphics and Applications 7.5 (1987): 14-20.
+
+A Fast Voxel Traversal Algorithm for Ray Tracing
+Amanatides, John, and Andrew Woo. "A fast voxel traversal algorithm for ray tracing." Eurographics. Vol. 87. No. 3. 1987.
+
+A two-pass solution to the rendering equation: A synthesis of ray tracing and radiosity methods
+Wallace, John R., Michael F. Cohen, and Donald P. Greenberg. "A two-pass solution to the rendering equation: A synthesis of ray tracing and radiosity methods." ACM Siggraph Computer Graphics 21.4 (1987): 311-320.
+
+A ray tracing solution for diffuse interreflection
+Ward, Gregory J., Francis M. Rubinstein, and Robert D. Clear. "A ray tracing solution for diffuse interreflection." Proceedings of the 15th annual conference on Computer graphics and interactive techniques. 1988.
+
+A ray tracing solution for diffuse interreflection
+Ward, Gregory J., Francis M. Rubinstein, and Robert D. Clear. "A ray tracing solution for diffuse interreflection." Proceedings of the 15th annual conference on Computer graphics and interactive techniques. 1988.
+
+A ray tracing algorithm for progressive radiosity
+Wallace, John R., Kells A. Elmquist, and Eric A. Haines. "A ray tracing algorithm for progressive radiosity." Proceedings of the 16th annual conference on Computer graphics and interactive techniques. 1989.
+
+Efficient Ray Tracing of Volume Data
+Levoy, Marc. "Efficient ray tracing of volume data." ACM Transactions on Graphics (TOG) 9.3 (1990): 245-261.
+
+Adaptive Radiosity Textures for Bidirectional Ray Tracing
+Heckbert, Paul S. "Adaptive radiosity textures for bidirectional ray tracing." Proceedings of the 17th annual conference on Computer graphics and interactive techniques. 1990.
+
+Heuristics for ray tracing using space subdivision
+MacDonald, J. David, and Kellogg S. Booth. "Heuristics for ray tracing using space subdivision." The Visual Computer 6.3 (1990): 153-166.
+
+A hybrid ray tracer for rendering polygon and volume data
+Levoy, Marc. "A hybrid ray tracer for rendering polygon and volume data." IEEE Computer graphics and Applications 10.2 (1990): 33-40.
+
+Physically based lighting calculations for computer graphics
+Shirley, Peter S. Physically based lighting calculations for computer graphics. Diss. University of Illinois at Urbana-Champaign, 1991.
+
+Discrete ray tracing
+Yagel, Roni, Daniel Cohen, and Arie Kaufman. "Discrete ray tracing." IEEE Computer graphics and applications 12.05 (1992): 19-28.
+
+Bi-directional path tracing
+Lafortune, Eric P., and Yves D. Willems. "Bi-directional path tracing." (1993): 145-153.
+Path tracing
+
+Ray Tracing Abstracts Survey
+Wilson, Tom. "Ray tracing abstracts survey." Available from wil.
+
+Sphere tracing: A geometric method for the antialiased ray tracing of implicit surfaces
+Hart, John C. "Sphere tracing: A geometric method for the antialiased ray tracing of implicit surfaces." The Visual Computer 12.10 (1996): 527-545.
+
+Global Illumination using Photon Maps
+Jensen, Henrik Wann. "Global illumination using photon maps." Eurographics workshop on Rendering techniques. Springer, Vienna, 1996.
+Global Illumination
+Photon mapping
+
+Two-dimensional ray-tracing modeling for propagation prediction in microcellular environments
+Rizk, Karim, J-F. Wagen, and Fred Gardiol. "Two-dimensional ray-tracing modeling for propagation prediction in microcellular environments." IEEE Transactions on Vehicular Technology 46.2 (1997): 508-518.
+
+Instant radiosity
+Keller, Alexander. "Instant radiosity." Proceedings of the 24th annual conference on Computer graphics and interactive techniques. 1997.
+ラジオシティ法
+
+Metropolis light transport
+Veach, Eric, and Leonidas J. Guibas. "Metropolis light transport." Proceedings of the 24th annual conference on Computer graphics and interactive techniques. 1997.
+Metropolis light transport (MLT)
+
+An efficient library for parallel ray tracing and animation
+Stone, John Edward. "An efficient library for parallel ray tracing and animation." (1998).
+
+Raytran: a Monte Carlo ray-tracing model to compute light scattering in three-dimensional heterogeneous media
+Govaerts, Yves M., and Michel M. Verstraete. "Raytran: A Monte Carlo ray-tracing model to compute light scattering in three-dimensional heterogeneous media." IEEE Transactions on geoscience and remote sensing 36.2 (1998): 493-505.
+
+Realistic modeling and rendering of plant ecosystems
+Deussen, Oliver, et al. "Realistic modeling and rendering of plant ecosystems." Proceedings of the 25th annual conference on Computer graphics and interactive techniques. 1998.
+
+Efficient collision detection using bounding volume hierarchies of k-DOPs
+Klosowski, James T., et al. "Efficient collision detection using bounding volume hierarchies of k-DOPs." IEEE transactions on Visualization and Computer Graphics 4.1 (1998): 21-36.
+Bounding Volume Hierarchy (BVH)
+
+Interactive Ray Tracing for Isosurface Rendering
+Parker, Steven, et al. "Interactive ray tracing for isosurface rendering." Proceedings Visualization'98 (Cat. No. 98CB36276). IEEE, 1998.
+
+McStas, a general software package for neutron ray-tracing simulations
+Lefmann, Kim, and Kristian Nielsen. "McStas, a general software package for neutron ray-tracing simulations." Neutron news 10.3 (1999): 20-23.
+
+A microcellular ray-tracing propagation model and evaluation of its narrow-band and wide-band predictions
+Athanasiadou, Georgia E., Andrew R. Nix, and Joseph P. McGeehan. "A microcellular ray-tracing propagation model and evaluation of its narrow-band and wide-band predictions." IEEE Journal on Selected Areas in Communications 18.3 (2000): 322-335.
+
+Interactive Rendering with Coherent Ray Tracing
+Wald, Ingo, et al. "Interactive rendering with coherent ray tracing." Computer graphics forum. Vol. 20. No. 3. Oxford, UK and Boston, USA: Blackwell Publishers Ltd, 2001.
+
+Interactive global illumination
+Wald, Ingo, et al. "Interactive global illumination." (2002).
+Global Illumination
+
+Ray differentials and multiresolution geometry caching for distribution ray tracing in complex scenes
+Christensen, Per H., et al. "Ray differentials and multiresolution geometry caching for distribution ray tracing in complex scenes." Computer Graphics Forum. Vol. 22. No. 3. Oxford, UK: Blackwell Publishing, Inc, 2003.
+
+POVScript+: a program for model and data visualization using persistence of vision ray-tracing
+Fenn, T. D., D. Ringe, and G. A. Petsko. "POVScript+: a program for model and data visualization using persistence of vision ray-tracing." Journal of Applied Crystallography 36.3 (2003): 944-947.
+
+An Efficient Representation for Irradiance Environment Maps
+Ramamoorthi, Ravi, and Pat Hanrahan. "An efficient representation for irradiance environment maps." Proceedings of the 28th annual conference on Computer graphics and interactive techniques. 2001.
+
+Spherical harmonic lighting: The gritty details
+Green, Robin. "Spherical harmonic lighting: The gritty details." Archives of the game developers conference. Vol. 56. 2003.
+Spherical harmonic lighting
+
+Multi-level ray tracing algorithm
+Reshetov, Alexander, Alexei Soupikov, and Jim Hurley. "Multi-level ray tracing algorithm." ACM Transactions on Graphics (TOG) 24.3 (2005): 1176-1185.
+
+Interactive ray tracing
+Parker, Steven, et al. "Interactive ray tracing." ACM SIGGRAPH 2005 Courses. 2005. 12-es.
+
+Ray Tracing on Programmable Graphics Hardware
+Purcell, Timothy J., et al. "Ray tracing on programmable graphics hardware." ACM SIGGRAPH 2005 Courses. 2005. 268-es.
+
+Photon mapping on programmable graphics hardware
+Purcell, Timothy J., et al. "Photon mapping on programmable graphics hardware." ACM SIGGRAPH 2005 Courses. 2005. 258-es.
+Photon mapping
+
+RPU: A Programmable Ray Processing Unit for Realtime Ray Tracing
+Woop, Sven, Jörg Schmittler, and Philipp Slusallek. "RPU: a programmable ray processing unit for realtime ray tracing." ACM Transactions on Graphics (TOG) 24.3 (2005): 434-444.
+
+KD-tree acceleration structures for a GPU raytracer
+Foley, Tim, and Jeremy Sugerman. "KD-tree acceleration structures for a GPU raytracer." Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware. 2005.
+KD-Tree
+
+Calculation of material properties and ray tracing in transformation media
+Schurig, D., J. B. Pendry, and David R. Smith. "Calculation of material properties and ray tracing in transformation media." Optics express 14.21 (2006): 9794-9804.
+
+Image-Based Lighting
+Debevec, Paul. "Image-based lighting." ACM SIGGRAPH 2006 Courses. 2006. 4-es.
+Image-Based Lighting (IBL)
+
+Ray Tracing for the Movie ‘Cars’
+P. H. Christensen, J. Fong, D. M. Laur and D. Batali, "Ray Tracing for the Movie `Cars'," 2006 IEEE Symposium on Interactive Ray Tracing, 2006, pp. 1-6, doi: 10.1109/RT.2006.280208.
+
+On building fast kd-trees for ray tracing, and on doing that in O (N log N)
+Wald, Ingo, and Vlastimil Havran. "On building fast kd-trees for ray tracing, and on doing that in O (N log N)." 2006 IEEE Symposium on Interactive Ray Tracing. IEEE, 2006.
+KD-Tree
+
+Ray tracing deformable scenes using dynamic bounding volume hierarchies
+Wald, Ingo, Solomon Boulos, and Peter Shirley. "Ray tracing deformable scenes using dynamic bounding volume hierarchies." ACM Transactions on Graphics (TOG) 26.1 (2007): 6-es.
+
+Rendering synthetic objects into real scenes: Bridging traditional and image-based graphics with global illumination and high dynamic range photography
+Debevec, Paul. "Rendering synthetic objects into real scenes: Bridging traditional and image-based graphics with global illumination and high dynamic range photography." Acm siggraph 2008 classes. 2008. 1-10.
+
+Understanding the efficiency of ray traversal on GPUs
+Aila, Timo, and Samuli Laine. "Understanding the efficiency of ray traversal on GPUs." Proceedings of the conference on high performance graphics 2009. 2009.
+
+State of the art in ray tracing animated scenes
+Wald, Ingo, et al. "State of the art in ray tracing animated scenes." Computer graphics forum. Vol. 28. No. 6. Oxford, UK: Blackwell Publishing Ltd, 2009.
+
+Optix: a general purpose ray tracing engine
+Parker, Steven G., et al. "Optix: a general purpose ray tracing engine." Acm transactions on graphics (tog) 29.4 (2010): 1-13.
+OptiX
+
+High dynamic range imaging: acquisition, display, and image-based lighting
+Reinhard, Erik, et al. High dynamic range imaging: acquisition, display, and image-based lighting. Morgan Kaufmann, 2010.
+book
+
+Toward real-time ray tracing: A survey on hardware acceleration and microarchitecture techniques
+Deng, Yangdong, et al. "Toward real-time ray tracing: A survey on hardware acceleration and microarchitecture techniques." ACM Computing Surveys (CSUR) 50.4 (2017): 1-41.
+
+Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX
+Marrs, Adam, Peter Shirley, and Ingo Wald. "Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX." (2021): 858.
+
+A Survey on Bounding Volume Hierarchies for Ray Tracing
+Meister, Daniel, et al. "A survey on bounding volume hierarchies for ray tracing." Computer Graphics Forum. Vol. 40. No. 2. 2021.
+Bounding Volume Hierarchy (BVH)
+
+DR. JIT: a just-in-time compiler for differentiable rendering
+Jakob, Wenzel, et al. "DR. JIT: a just-in-time compiler for differentiable rendering." ACM Transactions on Graphics (TOG) 41.4 (2022): 1-19.
+Mitsuba Renderer 2
+
