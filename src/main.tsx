@@ -4,8 +4,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Root from "./root"
 import './index.css'
 import ErrorPage from './error-page'
-import Papers from './papers'
-import RayTracing from './papers/ray_tracing'
+import Papers, { RayTracing } from './papers'
 
 const router = createBrowserRouter([
   {
