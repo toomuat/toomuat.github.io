@@ -1,3 +1,5 @@
+import style from "./papers.module.css"
+
 type PaperInfo = {
   title: string;
   reference: string;
@@ -48,12 +50,12 @@ export async function ReadPapersInfo(file_path: string): Promise<ReadonlyPaperIn
 export const PapersList: React.FC<PaperInfoProp> = ({ papers }) => {
   const papersList = papers.map((paper, index) => {
     const authors = paper.authors.map((authors, i) => <p key={i}>{authors}</p>)
-    const keywords = paper.keywords?.map((keywords, i) => <p key={i}>{keywords}</p>)
-    return <li key={index}>
-      <p>{paper.title}</p>
+    const keywords = paper.keywords?.map((keywords, i) => <span key={i} className={style.keyword}>{keywords}</span>)
+    return <li key={index} className={style.li}>
+      <h2>{paper.title}</h2>
       <p>{paper.reference}</p>
       {authors && <div>{authors}</div>}
-      {keywords && <div>{keywords}</div>}
+      {keywords && <p>{keywords}</p>}
     </li>
   })
   return <ul>{papersList}</ul>

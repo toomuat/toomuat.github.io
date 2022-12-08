@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+}
+
+.keyword {
+  border: 1px solid #f6e;
+  border-radius: 4px;
+  padding: 0.5em;
+  background-color: #fee;
+}
+
+/* Insert margin only if there is a keyword right next to it. */
+.keyword + .keyword {
+  margin-left: 0.5em;
+}

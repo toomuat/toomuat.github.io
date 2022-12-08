@@ -1,2 +1,0 @@
-This is test2.txt
-hello world2!
