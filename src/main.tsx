@@ -24,26 +24,6 @@ const router = createBrowserRouter([
   basename: import.meta.env.GITHUB_PAGES
 })
 
-const router2 = createBrowserRouter(
-  createRoutesFromElements(
-    <Route
-      path='/'
-      element={<Root />}
-      errorElement={<ErrorPage />}>
-      <Route
-        path='/papers'
-        element={<Papers />}>
-      </Route>
-      <Route
-        path='/papers/ray_tracing'
-        element={<RayTracing />}>
-      </Route>
-    </Route >
-  )
-  , {
-    basename: import.meta.env.GITHUB_PAGES
-  })
-
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <RouterProvider router={router} />

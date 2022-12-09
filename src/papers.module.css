@@ -2,6 +2,12 @@ li {
   list-style: none;
 }
 
+.paper_title {
+  margin: 0 auto;
+  text-align: center;
+  margin: 0.5em;
+}
+
 .keyword {
   border: 1px solid #f6e;
   border-radius: 4px;
